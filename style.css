@@ -42,7 +42,7 @@
   margin-top: 30px;
 }
 
-/* Aboutエリア */
+/* aboutについて */
 .about {
   text-align: center;
   margin: 60px ;
@@ -71,13 +71,12 @@
 
 }
 
-/* imgBox */
+/* バナーエリアについて */
 .imgBox {
   margin-top: 80px;
   display: flex;
   margin-bottom: 60px;
 }
-/* 100%と25％の設定の意図が分からない */
 .imgBox p {
   width: 25%;
 }
@@ -86,7 +85,7 @@
   width: 100%;
 }
 
-/* course */
+/* コースエリアについて */
 .course {
   margin: 60px 0px;
 }
@@ -157,7 +156,7 @@
 
 
 
-/* News */
+/* Newsエリアについて */
 .news {
 text-align: center;
 margin: 60px 0;
@@ -179,7 +178,7 @@ line-height:18px;
 }
 
 
-/* Newsホバー */
+/* hoverエリアについて */
 .flex__container {
 margin-top: 60px;
 display: flex;
@@ -224,7 +223,7 @@ line-height:25px;
 
 
 
-/* Moreホバー */
+/* Moreホバについて */
 .btn_more{
 width: 300px;
 height: 60px;
@@ -242,7 +241,7 @@ transition: all .2s;
 }
 
 
-/* アクセス */
+/* アクセスについて */
 .access__box {
 margin-left: auto;
 margin-right: auto;
@@ -273,7 +272,7 @@ margin-bottom: 45px;
 }
 
 
-/* info */
+/* アクセルinfo */
 .info {
 width: 40%;
 margin-left: 40%;
@@ -300,7 +299,7 @@ text-align: left;
 .info th {width:auto;}
 }
 
-/* コンタクト */
+/* コンタクトについて */
 .contact {
 text-align: center;
 width: 60%;
@@ -326,9 +325,7 @@ line-height:25px;
 font-size: 16px;
 }
 
-/* contact_text後に15px分の余白アリ */
-
-/* 入力フォーム */
+/* 入力フォームについて */
 
 .contact-table {
 width:628px; height:36px; 
@@ -369,10 +366,6 @@ height: 36px;
 
 }
 
-
-/* .contact-motivation-txt
-padding-left:30px; */
-
 .form-textarea-detail{
 width: 328px;
 height: 100px;
@@ -391,7 +384,7 @@ height: 64px;
 }
 
 
-/* 送信ホバー */
+/* 送信ホバーについて */
 .btn_send{
 width: 300px;
 height: 60px;
@@ -409,7 +402,7 @@ transition: all .2s;
 margin-bottom: 140px
 }
 
-/* コピーライト */
+/* コピーライトについて */
 .copylight__box {
 margin-left: auto;
 margin-right: auto;
